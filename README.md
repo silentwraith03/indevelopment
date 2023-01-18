@@ -1,0 +1,1 @@
+[![Deploy Hugo site to Pages](https://github.com/silentwraith03/indevelopment/actions/workflows/deploy-hugo.yaml/badge.svg)](https://github.com/silentwraith03/indevelopment/actions/workflows/deploy-hugo.yaml)
