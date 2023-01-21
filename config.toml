@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://silentwraith03.github.io"
 title = "Kunal Pal"
 theme = "hugo-coder"
 languageCode = "en"
@@ -17,7 +17,7 @@ author = "Kunal Pal"
 description = "Kunal's personal website"
 keywords = "blog,developer,personal"
 info = ["Student", "Web Developer"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatarascii1.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
@@ -110,20 +110,26 @@ author = "authors"
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
-weight = 1
+weight = 2
 url = "https://github.com/silentwraith03"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-2x fa-gitlab"
-weight = 2
+weight = 3
 url = "https://gitlab.com/silentwraith03"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 1
 url = "https://www.linkedin.com/in/kunal-pal-481204255/"
+
+[[params.social]]
+name = "Stackoverflow"
+icon = "fa fa-2x fa-stack-overflow"
+weight = 4
+url = "https://stackoverflow.com/users/20973518/kunal-pal"
 
 [[params.social]]
 name = "RSS"
@@ -141,10 +147,10 @@ name = "About"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+#[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
