@@ -8,7 +8,7 @@ author = "Kunal Pal"
 
 Hello there! I'm Kunal a student and developer.
 
-Currently, pursuing my education in BCA from Institute of Innovation in Technology and Management, Delhi.
-I like to follow latest advancements in the field of Computer Science, Engineering and Technology.
+Currently, pursuing my education in BCA from the Institute of Innovation in Technology and Management, Delhi.
+I like to follow latest advancements in Computer Science, Engineering and Technology.
 
 I'm looking for opportunities related to web development and python programming.
