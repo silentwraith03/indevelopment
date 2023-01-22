@@ -3,4 +3,4 @@ title = "Contato"
 slug = "contact"
 +++
 
-Me siga em @joaoninguem.
+私に連絡して, iamkunal79@gmail.com
