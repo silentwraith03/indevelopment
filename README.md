@@ -1,5 +1,5 @@
 ## Project Overview
-This is the repository for my portfolio website, showcasing my work and skills as a developer/designer. The website is built using HTML, CSS, and JavaScript.
+This is the repository for my portfolio website built using Hugo static site generator, showcasing my work and skills as a developer/designer. The website is built using HTML, CSS, and JavaScript.
 
 ## Features
 * Home page with an introduction and summary of my skills and experience
@@ -8,6 +8,7 @@ This is the repository for my portfolio website, showcasing my work and skills a
 * Contact page with a form for visitors to send me a message
 * Responsive design for mobile and desktop devices 
 * Robust, minimalist and swift website.
+* Change language to Japanese.
 
 ## Screenshots
 <img src='images/sc1.png'>
@@ -24,9 +25,13 @@ This is the repository for my portfolio website, showcasing my work and skills a
 ```bash
 git clone https://github.com/silentwraith03/profile
 ```
-2. Configure your config.toml
+2. Install Hugo
+```bash
+brew install hugo
+```
+3. Configure your config.toml
 
-3. Build your site with 
+4. Build your site with 
 ```bash
 hugo server -D
 ``` 
