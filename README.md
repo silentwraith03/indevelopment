@@ -24,7 +24,13 @@ This is the repository for my portfolio website, showcasing my work and skills a
 ```bash
 git clone https://github.com/silentwraith03/profile
 ```
-2.Open the index
+2. Configure your config.toml
+
+3. Build your site with 
+```bash
+hugo server -D
+``` 
+and see the result at http://localhost:1313/
 ## License
 [MIT](LICENSE)
 
