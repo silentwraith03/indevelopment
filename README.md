@@ -36,8 +36,9 @@ brew install hugo
 hugo server -D
 ``` 
    and see the result at http://localhost:1313/
-## License
-[MIT](LICENSE)
 
 ## Acknowledgements 
 * ForkAwesome - icons
+
+## License
+[MIT](LICENSE)
