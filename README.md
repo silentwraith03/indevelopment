@@ -30,7 +30,7 @@ git clone https://github.com/silentwraith03/profile
 ```bash
 hugo server -D
 ``` 
-and see the result at http://localhost:1313/
+   and see the result at http://localhost:1313/
 ## License
 [MIT](LICENSE)
 
