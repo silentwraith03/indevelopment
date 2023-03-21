@@ -1,10 +1,16 @@
 +++
-title = "Projects"
-slug = "projects"
+author = "Kunal Pal"
+title = "AI Image Generator"
+date = "2023-01-25"
+description = "Web application that creates images from scratch based on user‑provided text"
+tags = [
+    "ai",
+    "nodejs",
+]
 +++
+[Source Code](https://github.com/silentwraith03/ai-image-generator)
 
-# AI IMAGE GENERATOR
-## Project Overview
+## Overview
 Built a web application that creates images from scratch based on user‑provided text.
 
 ## Features
@@ -12,8 +18,10 @@ Built a web application that creates images from scratch based on user‑provide
 * Used NodeJS to create a REST API endpoint for fetching the generated image and displaying it on frontend.
 
 ## Screenshots
-<img src='static/images/sc3.png'>
-<img src='static/images/sc4.png'>
+![](sc3.png)
+![](sc4.png)
+<img src='images/sc3.png'>
+<img src='images/sc4.png'>
 
 ## Tech Used
 * OpenAI API
@@ -40,6 +48,3 @@ OPENAI_API_KEY='YOUR_API_KEY'
 npm run dev  
 ```
 4.  Visit localhost:5000 on your browser
-
-## License
-[MIT](LICENSE)
