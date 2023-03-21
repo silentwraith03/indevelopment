@@ -1,4 +1,17 @@
-## Project Overview
++++
+author = "Kunal Pal"
+title = "Portfolio Website"
+date = "2023-01-18"
+description = "Robust, minimalist and swift website."
+tags = [
+    "website",
+    "hugo",
+    "html,css,js",
+]
++++
+[Source Code](https://github.com/silentwraith03/profile)
+
+## Overview
 This is the repository for my portfolio website built using Hugo static site generator, showcasing my work and skills as a developer/designer. The website is built using HTML, CSS, and JavaScript.
 
 ## Features
@@ -10,8 +23,8 @@ This is the repository for my portfolio website built using Hugo static site gen
 * Available in Japanese
 
 ## Screenshots
-<img src='images/sc1.png'>
-<img src='images/sc2.png'>
+![](sc1.png)
+![](sc2.png)
 
 ## Tech Used
 * HTML
@@ -38,6 +51,3 @@ hugo server -D
 
 ## Acknowledgements 
 * ForkAwesome - icons
-
-## License
-[MIT](LICENSE)
