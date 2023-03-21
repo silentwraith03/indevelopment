@@ -12,8 +12,8 @@ Built a web application that creates images from scratch based on user‑provide
 * Used NodeJS to create a REST API endpoint for fetching the generated image and displaying it on frontend.
 
 ## Screenshots
-<img src='images/sc3.png'>
-<img src='images/sc4.png'>
+<img src='static/images/sc3.png'>
+<img src='static/images/sc4.png'>
 
 ## Tech Used
 * OpenAI API
